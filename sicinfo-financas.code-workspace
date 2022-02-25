@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "finanças",
+			"path": "."
+		},
+		{
+			"path": "server"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "server/services"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/node_modules": true,
+			"*.code-workspace": true
+		}
+	}
+}

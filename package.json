@@ -1,0 +1,25 @@
+{
+  "name": "sicinfo-financas",
+  "version": "0.1.0",
+  "description": "controle de finanças",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sicinfo/financas.git"
+  },
+  "keywords": [
+    "financas"
+  ],
+  "author": "moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sicinfo/financas/issues"
+  },
+  "homepage": "https://github.com/sicinfo/financas#readme"
+}
